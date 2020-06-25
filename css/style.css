@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=MuseoModerno&family=Raleway:wght@300&family=Sail&display=swap');@import url("components/container.css");
+@import url("components/banner.css");
+@import url("components/btn-blue.css");
+@import url("components/card.css");
+
+
+body {
+	font-family: 'Sail', cursive;
+	font-size: 20px;
+	margin: 0px;
+}
+
+h1 {
+	font-family: 'Raleway', sans-serif;
+	margin-bottom: -20px;
+}
+
+h2 {
+	font-family: 'MuseoModerno', cursive;
+	color: #233A25;
+}
+a {
+	text-decoration: none;
+	color: #233A25;
+}
+

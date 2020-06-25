@@ -1,0 +1,33 @@
+.banner {
+	background-image:linear-gradient(400deg,rgba(255,255,255,.4) ,rgba(255,255,255,.1) 60%),url(../../images/britanny.jpg);
+	background-position: center;
+	background-size: cover;
+	padding: 200px 0px 20px;
+	color:white;
+    display: flex;
+    flex-direction: column;
+    min-height: 50vh;
+    text-align: center;
+
+}
+
+.banner h1 {
+	font-size: 60px;
+	margin-top: 5px;
+		font-family: 'Sail', cursive;
+
+}
+
+.banner h2 {
+	font-weight: lighter;
+	font-size: 50px;
+	opacity: 0.9
+}
+
+#text-position {
+	position: absolute;
+	top: 0px;
+	left:200px;
+	text-align: center;
+}
+
